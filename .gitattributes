@@ -1,3 +1,2 @@
 *.sas7bdat filter=lfs diff=lfs merge=lfs -text
-edgeslist.csv filter=lfs diff=lfs merge=lfs -text
 edgelist.csv filter=lfs diff=lfs merge=lfs -text
